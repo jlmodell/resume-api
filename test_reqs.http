@@ -4,3 +4,9 @@ Content-Type: application/json
 {
     "skill": "Typescript"
 }
+
+###
+GET http://localhost:3000/ HTTP/1.1
+
+###
+GET http://localhost:3000/api/resume HTTP/1.1
